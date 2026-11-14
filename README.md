@@ -12,7 +12,7 @@ Check out the [User Guide](USER_GUIDE.md) for information on how to use the exte
 
 ## Issues
 
-If you encounter any issues while using the extension, please report them [here](https://github.com/tequirk/sweepfill/issues).
+If you encounter any issues while using the extension, please report them [here](https://github.com/tequirk/sweepfill/issues). For anything else, email support@sweepfill.com.
 
 
 

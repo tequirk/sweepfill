@@ -73,7 +73,7 @@ You can remove everything the Application keeps in your browser by removing the 
 
 * **Contests, your follows, entries and reports** are deleted automatically 30 days after a contest ends.
 * **Your account and contest history** are kept until you delete your account.
-* **To delete your account** and everything stored with it, email legal@tequirk.com from the address on your account, and the Service Provider will respond in a reasonable time.
+* **To delete your account** and everything stored with it, email support@sweepfill.com from the address on your account, and the Service Provider will respond in a reasonable time.
 
 ## Children
 
