@@ -16,7 +16,7 @@ Sign up with your email address and a password. Your account keeps the contests 
 
 Add your name, address, phone, birthdate and any custom fields under Profile. Sweepfill uses your state and age to hide contests you aren't eligible for. Your profile stays in your browser and is never sent to us. If you use your browser's sync, it follows you to your other browsers, so you won't need to fill it in again on a new computer.
 
-To delete your account and everything stored with it, use **Delete account** at the bottom of Profile. It can't be undone.
+To delete your account and everything stored with it, open **Settings** from the menu and use **Delete account** at the bottom. It can't be undone.
 
 ## Finding Contests
 
