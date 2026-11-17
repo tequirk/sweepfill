@@ -30,10 +30,13 @@ Today shows the contests you follow that are due, based on how often each contes
 
 ## Auto Check-Off
 
-Turn on Auto check-off in the menu and Sweepfill will tick a contest off for you when it sees your entry went through, such as a "Thanks for entering" page. Your browser will ask you to allow Sweepfill on all sites, since a contest can confirm your entry on a different website from the one you entered on. Sweepfill only pays attention to tabs you open from Today.
+Turn on Auto check-off in **Settings** (in the menu) and Sweepfill will tick a contest off for you when it sees your entry went through, such as a "Thanks for entering" page. Your browser will ask you to allow Sweepfill on all sites, since a contest can confirm your entry on a different website from the one you entered on. Sweepfill only pays attention to tabs you open from Today.
 
 If it isn't sure, Sweepfill will ask whether you entered.
 
-## Past Contests
+## My Contests
 
-Past Contests keeps a summary of contests that have ended: the prizes, how many times you entered, and whether you won. Mark a contest as won to remember it.
+Open **My contests** from the menu to see every contest you follow, in two tabs:
+
+* **Running** lists the contests you can still enter. Tick the ones you no longer want and remove them, or remove them all at once. To remove just one, you can also click its name on Today and choose **Remove from Today**.
+* **Ended** lists contests you followed that have ended, for 30 days after they end. Each one links to its official rules, which say how winners are picked and told.
