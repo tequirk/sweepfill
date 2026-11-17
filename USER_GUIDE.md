@@ -14,7 +14,7 @@ Sign up with your email address and a password. Your account keeps the contests 
 
 ## Filling In Your Profile
 
-Add your name, address, phone, birthdate and any custom fields under Profile. Sweepfill uses your state and age to hide contests you aren't eligible for. Your profile stays in your browser and is never sent to us.
+Add your name, address, phone, birthdate and any custom fields under Profile. Sweepfill uses your state and age to hide contests you aren't eligible for. Your profile stays in your browser and is never sent to us. If you use your browser's sync, it follows you to your other browsers, so you won't need to fill it in again on a new computer.
 
 ## Finding Contests
 

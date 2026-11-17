@@ -2,19 +2,19 @@
 
 This privacy policy applies to the Sweepfill browser extension (hereby referred to as "Application"), and the account and services that come with it, created by Tequirk LLC (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
 
-In short: your personal details (name, address, phone, birthdate) stay in your browser and are never sent to the Service Provider. Their server keeps your account, the contests you follow, and when you entered them. The Service Provider does not sell your data, show ads, or use analytics trackers.
+In short: your personal details (name, address, phone, birthdate) stay in your browser and are never sent to the Service Provider. If you use your browser's own sync, your browser copies them to your other signed-in browsers. Their server keeps your account, the contests you follow, and when you entered them. The Service Provider does not sell your data, show ads, or use analytics trackers.
 
 ## Information Kept on Your Device
 
-These are kept in your browser's extension storage and never leave your device:
+These are kept in your browser's extension storage and are never sent to the Service Provider:
 
-* **Your profile:** name, email, phone, birthdate, address, and any custom fields you add. The Application uses your state and age to hide contests you aren't eligible for.
+* **Your profile:** name, email, phone, birthdate, address, and any custom fields you add. The Application uses your state and age to hide contests you aren't eligible for. Your profile is kept in your browser's sync storage: if you have turned on sync in your browser (for example, by signing in to Chrome or Firefox), your browser copies it to your other browsers signed in to the same browser account, so it's there on a new computer or after reinstalling. That copy is held by your browser's maker (Google or Mozilla) under their own privacy policy, never by the Service Provider. With browser sync off, it stays on this device.
 * **Today's list**, saved so it opens when you're offline, plus check-offs made offline until they can be sent.
 * **The tabs you open from Today**, and what the Application noticed in them, while they're open.
 * **Contests you skip** in Discover, so they stay out of your way.
 * **Your settings**, such as the theme and whether Auto check-off is on.
 
-Removing the Application from your browser deletes all of this.
+Removing the Application from your browser deletes all of this from that browser. A copy of your profile kept by your browser's sync may remain in your browser account.
 
 ## Information Collection and Use
 
@@ -83,7 +83,7 @@ The Application does not address anyone under the age of 13. The Service Provide
 
 ## Security
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. Your profile stays in your browser, where it is protected by your computer's own account and the isolation your browser places around each extension. What is stored on the server is protected by access rules that let each account see only its own data, and passwords are stored hashed.
+The Service Provider is concerned about safeguarding the confidentiality of your information. Your profile stays in your browser, where it is protected by your computer's own account and the isolation your browser places around each extension, and, if you use browser sync, by your browser account. What is stored on the server is protected by access rules that let each account see only its own data, and passwords are stored hashed.
 
 ## Changes
 
