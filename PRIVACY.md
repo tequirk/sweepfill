@@ -35,7 +35,8 @@ Auto check-off is off unless you turn it on. When it's on:
 * **Your browser asks you to allow the Application on all sites.** A contest can confirm your entry on a different website from the one you entered on, so the Application can't know in advance where it needs to look.
 * **It only pays attention to tabs you open from the Application's Today list**, and tabs those open. Your other browsing is ignored.
 * **In those tabs, the Application reads the page in your browser** to spot signs that your entry went through, such as "Thanks for entering". It also notices when you press a button, and when the page sends a form. The browser reports form submissions from every tab; the Application ignores those not opened from Today. It looks inside a submission only for the contest's ID, so it knows which contests were entered. Nothing you typed is kept.
-* **To improve automatic check-off, the Application sends the Service Provider a short report** about each entry from a tab opened from Today. The report contains which contest, how the entry was recorded (automatically, confirmed by you, ticked by you, undone, or not entered), and a few yes/no answers, such as "did the page change after you pressed the button?". The database refuses reports containing page text, web addresses, button labels, or anything you typed. Reports are deleted when the contest is deleted.
+* **To improve automatic check-off, the Application sends the Service Provider a short report** about each entry from a tab opened from Today. The report contains which contest, how the entry was recorded (automatically, confirmed by you, ticked by you, undone, or not entered), and a few yes/no answers, such as "did the page change after you pressed the button?". Unless you turn on **Help improve Auto check-off** (below), the database refuses reports containing page text, web addresses, button labels, or anything you typed. Reports are deleted when the contest is deleted.
+* **Help improve Auto check-off is off unless you turn it on**, in Settings. When the Application misses an entry of yours, the report also carries what your contest tab showed afterwards, so the Service Provider can teach the Application to recognise that contest's confirmation for everyone: short lines of text from the page (such as "Thanks for entering!"), the names of buttons you pressed, and the site of the page you landed on (such as sweeps.example.com, never the page's address). Before it leaves your browser, anything holding a detail from your profile or saved answers, an email address, a long number or a phone number is removed. The Service Provider's staff only ever see a line, button or site once at least 3 different people have reported it for the same contest, and these details are deleted after 30 days. Nothing you typed into a form is sent.
 
 Turning Auto check-off off gives the all-sites access back to your browser, and stops the reports.
 
@@ -65,13 +66,14 @@ The Service Provider may disclose information it holds:
 
 ## Opt-Out Rights
 
-You can turn off Auto check-off at any time, which stops the reports and gives the all-sites access back to your browser.
+You can turn off Auto check-off at any time, which stops the reports and gives the all-sites access back to your browser. You can turn off Help improve Auto check-off at any time too, which stops sending what your contest tabs showed.
 
 You can remove everything the Application keeps in your browser by removing the Application from your browser. To remove what's stored on the server as well, delete your account as described below.
 
 ## Data Retention Policy
 
 * **Contests, your follows, entries and reports** are deleted automatically 30 days after a contest ends.
+* **What your contest tabs showed**, if you turned on Help improve Auto check-off, is deleted from reports after 30 days.
 * **Your account and contest history** are kept until you delete your account.
 * **To delete your account** and everything stored with it, open Settings from the Application's menu and use **Delete account** at the bottom. This deletes your account, the contests you follow, your entries, contest history and reports from the Service Provider's server at once, and clears your profile from your browser and its synced copies. If you can't sign in, or you have an active paid subscription, email support@sweepfill.com from the address on your account, and the Service Provider will respond in a reasonable time.
 
