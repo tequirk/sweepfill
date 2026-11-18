@@ -25,6 +25,7 @@ When you create an account, these are stored in the Service Provider's database,
 * **Your entries:** which contest, when, and whether you ticked it yourself or the Application checked it off.
 * **Your contest history:** when a contest is deleted (30 days after it ends), a one-line summary of it is kept for you: the contest's title, sponsor and prizes, how many times you entered, and whether you marked it as won.
 * **Your plan:** whether you have a paid subscription. Payments are handled by Stripe; the Service Provider never sees or stores your card details.
+* **Your referral code, if you enter one:** the code, which Sweepfill admin it belongs to, and when you entered it. Admins are people who work with the Service Provider to find contests and bring people to Sweepfill. Entering a code is optional and can't be changed afterwards. The admin whose code you used sees only totals about everyone who used their codes, such as how many there are, how many pay, and how many entries they made. They never see who you are, your email address, or anything about you alone.
 
 This information is used only to run the Application, and to send you emails about your account, such as the sign-up confirmation.
 
@@ -74,7 +75,7 @@ You can remove everything the Application keeps in your browser by removing the 
 
 * **Contests, your follows, entries and reports** are deleted automatically 30 days after a contest ends.
 * **What your contest tabs showed**, if you turned on Help improve Auto check-off, is deleted from reports after 30 days.
-* **Your account and contest history** are kept until you delete your account.
+* **Your account, contest history and referral code** are kept until you delete your account.
 * **To delete your account** and everything stored with it, open Settings from the Application's menu and use **Delete account** at the bottom. This deletes your account, the contests you follow, your entries, contest history and reports from the Service Provider's server at once, and clears your profile from your browser and its synced copies. If you can't sign in, or you have an active paid subscription, email support@sweepfill.com from the address on your account, and the Service Provider will respond in a reasonable time.
 
 ## Children
