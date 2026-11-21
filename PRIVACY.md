@@ -25,6 +25,7 @@ When you create an account, these are stored in the Service Provider's database,
 * **The contests you follow**, and when you added them.
 * **Your entries:** which contest, when, and whether you ticked it yourself or the Application checked it off. If your account has a second person's profile, each entry also carries a random code saying whose it was, never their name or other details, so each of you sees what you still have to enter. Removing that person from your account deletes their entries.
 * **Your contest history:** when a contest is deleted (30 days after it ends), a one-line summary of it is kept for you: the contest's title, sponsor and prizes, how many times you entered, and whether you marked it as won.
+* **Your daily progress:** for each day, how many contests were on your list, how many you entered, and what the entered contests' prizes are worth. It's what your streak and your weekly numbers are worked out from. Counts only: which contests, and when you entered them, aren't kept here. It's shared by everyone on your account.
 * **Your plan:** whether you have a paid subscription, its billing length, its renewal date (or the date it ends, if you cancel), any promotion code used, and the Stripe customer and subscription numbers that link it to your payments. Payments are handled by Stripe, which receives your account's email address to set up the subscription; the Service Provider never sees or stores your card details.
 * **Your referral code, if you enter one:** the code, which Sweepfill admin it belongs to, and when you entered it. A referral code is a discount code you can enter before paying for Sweepfill. Admins are people who work with the Service Provider to find contests and bring people to Sweepfill. Entering a code is optional and can't be changed afterwards. If you pay with it, you count as that admin's member: they see only totals about their paying members, such as how many there are and how many entries they made. They never see who you are, your email address, or anything about you alone.
 
@@ -76,8 +77,8 @@ You can remove everything the Application keeps in your browser by removing the 
 
 * **Contests, your follows, entries and reports** are deleted automatically 30 days after a contest ends.
 * **What your contest tabs showed**, if you turned on Help improve Auto check-off, is deleted from reports after 30 days.
-* **Your account, contest history and referral code** are kept until you delete your account.
-* **To delete your account** and everything stored with it, open Settings from the Application's menu and use **Delete account** at the bottom. This deletes your account, the contests you follow, your entries, contest history and reports from the Service Provider's server at once, and clears your profile, and any second person's, from your browser and its synced copies. Any paid subscription is cancelled at the same time, with no further charges. If you can't sign in, email support@sweepfill.com from the address on your account, and the Service Provider will respond in a reasonable time.
+* **Your account, contest history, daily progress and referral code** are kept until you delete your account.
+* **To delete your account** and everything stored with it, open Settings from the Application's menu and use **Delete account** at the bottom. This deletes your account, the contests you follow, your entries, contest history, daily progress and reports from the Service Provider's server at once, and clears your profile, and any second person's, from your browser and its synced copies. Any paid subscription is cancelled at the same time, with no further charges. If you can't sign in, email support@sweepfill.com from the address on your account, and the Service Provider will respond in a reasonable time.
 
 ## Children
 
@@ -93,7 +94,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy, and of significant changes in the Application. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-11-20
+This privacy policy is effective as of 2026-11-21
 
 ## Your Consent
 
