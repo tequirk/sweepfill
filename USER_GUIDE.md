@@ -10,7 +10,9 @@ Click the Sweepfill button in your browser's toolbar to open it in a panel besid
 
 ## Creating an Account
 
-Sign up with your email address and a password. Your account keeps the contests you follow and your entries in sync.
+Choose **Create an account** and enter your email address. Sweepfill emails you a 6-digit code: type it into the side panel (you can read it on your phone), then choose a password for signing in next time. Your account keeps the contests you follow and your entries in sync.
+
+Forgot your password? Choose **Forgot password?** on the sign-in screen: you'll get a code the same way, then choose a new one.
 
 ## Filling In Your Profile
 

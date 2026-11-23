@@ -29,7 +29,7 @@ When you create an account, these are stored in the Service Provider's database,
 * **Your plan:** whether you have a paid subscription, its billing length, its renewal date (or the date it ends, if you cancel), any promotion code used, and the Stripe customer and subscription numbers that link it to your payments. Payments are handled by Stripe, which receives your account's email address to set up the subscription; the Service Provider never sees or stores your card details.
 * **Your referral code, if you enter one:** the code, which Sweepfill admin it belongs to, and when you entered it. A referral code is a discount code you can enter before paying for Sweepfill. Admins are people who work with the Service Provider to find contests and bring people to Sweepfill. Entering a code is optional and can't be changed afterwards. If you pay with it, you count as that admin's member: they see only totals about their paying members, such as how many there are and how many entries they made. They never see who you are, your email address, or anything about you alone.
 
-This information is used only to run the Application, and to send you emails about your account, such as the sign-up confirmation.
+This information is used only to run the Application, and to send you emails about your account, such as the code you're sent to create an account or reset your password.
 
 ## Auto Check-Off
 
@@ -94,7 +94,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy, and of significant changes in the Application. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-11-21
+This privacy policy is effective as of 2026-11-23
 
 ## Your Consent
 
