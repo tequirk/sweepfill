@@ -14,6 +14,7 @@ These are kept in your browser's extension storage and are never sent to the Ser
 * **The tabs you open from Today**, and what the Application noticed in them, while they're open.
 * **Contests you skip** in Discover, so they stay out of your way.
 * **Your settings**, such as the theme and whether Auto check-off is on.
+* **How long your recent entries took**, in seconds only (the last 30), so Today's time estimate fits how quickly you enter.
 
 Removing the Application from your browser deletes all of this from that browser. A copy of your profile kept by your browser's sync may remain in your browser account.
 
